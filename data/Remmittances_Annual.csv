@@ -1,0 +1,565 @@
+recipient_iso3;recipient_country;source_iso3;source_country;unit;period;net_migration;remittance_value;frequency;date
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1980;-79,01437302;8,89277805;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1981;-80,65339566;8,994817343;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1982;-60,59280016;9,07939563;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1983;-59,86726975;8,99849412;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1984;-35,71503536;8,710682004;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1985;-67,1957799;9,878263573;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1986;-36,53191408;9,641656673;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1987;-43,98235701;10,76688083;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1988;-61,45628711;9,828266854;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1989;-36,56064138;9,856900238;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1990;-61,55369069;10,97806669;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1991;-83,52534991;11,60744533;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1992;-54,50149151;10,88102059;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1993;-71,20250083;9,840444609;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1994;-63,6818567;9,954165908;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1995;-92,38172495;10,46594187;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1996;-63,69162259;12,08755558;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1997;-53,62669813;10,93747117;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1998;-49,23821782;11,42718103;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;1999;-43,5530966;9,84843075;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2000;-47,55502149;11,35768419;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2001;-45,35008513;10,32526071;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2002;-73,94233947;11,93853199;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2003;-91,37614251;12,85871626;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2004;-29,7739516;12,8214856;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2005;-69,41848163;11,49516409;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2006;-47,9768496;11,77656928;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2007;-61,9566688;12,13145539;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2008;-55,68075248;10,99029942;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2009;-42,9637183;12,73268548;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2010;-62,78680342;13,01034756;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2011;-47,991644;13,78702722;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2012;-39,06739161;15,99637975;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2013;-59,7115646;13,2303085;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2014;-53,02739811;13,62103388;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2015;-63,43959296;14,19416415;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2016;-39,46653799;14,69322898;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2017;-32,99246959;15,7598187;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2018;-33,80483382;15,13436436;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2019;-57,4783714;14,87116471;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2020;-64,29629518;15,24133322;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2021;-47,55220907;14,781998;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2022;-25,540524;16,44884754;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2023;-68,84576679;15,59954304;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2024;-62,40709414;15,48634892;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2025;-48,85357486;16,50782919;Annual;01/01/80
+ZWE;Zimbabwe;ARE;United Arab Emirates;USD million;2026;-37,57002658;13,10937973;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1980;-52,17229427;11,74342249;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1981;-71,0661261;11,74031418;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1982;-51,71261575;11,55786469;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1983;-44,53555447;12,73916862;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1984;-62,67811277;11,24720375;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1985;-65,83083192;13,06451582;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1986;-59,53301417;13,59192698;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1987;-67,52741928;13,89085368;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1988;-96,64966488;12,80840196;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1989;-36,34246458;13,33989939;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1990;-44,59181432;14,21034796;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1991;-46,63451246;15,61543256;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1992;-60,83645657;13,81277498;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1993;-57,44099415;12,63285567;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1994;-77,48117519;12,74804773;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1995;-64,217727;15,44689491;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1996;-52,03890331;14,75834868;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1997;-63,34528535;14,19266687;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1998;-67,76538091;14,28648083;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;1999;-66,12107346;12,96970119;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2000;-35,86322412;14,64500034;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2001;-62,56970285;14,66132352;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2002;-58,74764385;15,9385225;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2003;-59,62474747;16,67796389;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2004;-56,49337051;16,85725361;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2005;-74,37289678;13,81202593;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2006;-53,02197001;16,42288036;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2007;-48,25817486;15,5743812;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2008;-78,63573367;14,73931947;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2009;-48,37725148;15,22066925;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2010;-53,81177227;16,32243522;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2011;-74,18916659;18,24344299;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2012;-76,64416512;20,07315665;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2013;-52,23167134;18,61455612;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2014;-33,75346229;18,49158957;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2015;-78,71675168;18,39629697;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2016;-73,98859432;20,46669612;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2017;-91,91648264;19,50985391;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2018;-71,69458627;19,23866357;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2019;-56,3108691;20,96201827;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2020;-57,59853341;20,32247702;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2021;-56,84445482;18,96695244;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2022;-54,34633095;21,08801278;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2023;-27,14540691;20,3801288;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2024;-56,80118074;19,43179316;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2025;-79,10663841;21,81853808;Annual;01/01/80
+ZWE;Zimbabwe;AUS;Australia;USD million;2026;-61,17432545;16,78532898;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1980;-55,65948614;54,28467191;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1981;-40,09432361;57,63088683;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1982;-27,98537447;54,23118193;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1983;-61,90946308;55,09679909;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1984;-61,13166832;50,80406351;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1985;-50,64831309;60,06004658;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1986;-60,55893749;62,27200926;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1987;-39,73082539;63,19214774;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1988;-50,51744437;58,23744336;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1989;-54,41001797;60,61592195;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1990;-47,20263355;64,37000198;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1991;-49,25035455;70,49832121;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1992;-55,99549704;66,11662;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1993;-59,39709641;60,67561953;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1994;-46,62686549;58,68569418;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1995;-63,68149818;68,51257401;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1996;-36,60826619;73,90161014;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1997;-55,09799781;62,88692483;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1998;-56,91385275;67,63855471;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;1999;-35,93255549;61,95961125;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2000;-62,53518472;64,5616713;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2001;-54,81048954;62,29777141;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2002;-41,4815877;73,48171172;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2003;-58,23091692;77,79452463;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2004;-53,38739952;78,30423918;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2005;-43,68819071;64,64809147;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2006;-39,07660794;74,08986802;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2007;-37,1638819;70,4593001;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2008;-59,46742694;67,81944388;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2009;-48,22535281;71,84404081;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2010;-39,18758586;70,79147732;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2011;-52,15858111;75,13043859;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2012;-66,69605089;89,60289921;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2013;-56,75617714;83,53411332;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2014;-59,08259832;80,87136307;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2015;-87,78405746;87,24796168;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2016;-55,47720181;86,23881383;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2017;-66,19512529;96,59903158;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2018;-44,84435888;88,64965983;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2019;-65,7460094;92,76229108;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2020;-79,06886608;92,07269173;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2021;-57,49066613;91,34388783;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2022;-64,98116991;88,79581447;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2023;-74,81771851;94,04559281;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2024;-79,17204709;90,42156314;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2025;-64,27413411;100,2052268;Annual;01/01/80
+ZWE;Zimbabwe;BWA;Botswana;USD million;2026;-45,16242094;77,05283058;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1980;-48,87826185;22,82861097;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1981;-39,17872126;22,76523031;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1982;-72,87100957;21,86553748;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1983;-77,20550827;22,62927135;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1984;-69,09498708;20,89592756;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1985;-65,2146031;24,46464858;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1986;-19,73946327;24,6771326;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1987;-78,58602243;25,44369221;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1988;-44,37772831;23,54009488;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1989;-54,12680306;25,18949088;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1990;-86,77184463;27,53035504;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1991;-50,18440422;27,65805395;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1992;-69,29341865;27,13073408;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1993;-61,25412298;24,67384603;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1994;-68,89600332;22,89650355;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1995;-93,25573734;25,48678996;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1996;-84,09825914;27,41924184;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1997;-44,53125496;28,74458035;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1998;-66,19968279;26,7122855;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;1999;-97,35648367;25,56310887;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2000;-55,0330118;28,20252707;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2001;-50,44476745;26,08559441;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2002;-77,38369914;30,68589005;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2003;-57,96241917;28,26655899;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2004;-69,55384517;30,64437087;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2005;-56,82776595;27,92079116;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2006;-35,1503247;28,5896201;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2007;-63,37218546;27,97761305;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2008;-62,87937682;28,37195341;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2009;-28,28328938;30,80385603;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2010;-87,67893871;28,37858101;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2011;-52,6853219;31,87424873;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2012;-55,96857679;35,68190889;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2013;-44,63944014;31,9557205;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2014;-54,62756821;33,81101727;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2015;-69,30034357;35,18051722;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2016;-80,90117291;36,87074852;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2017;-38,0422611;39,10067304;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2018;-72,0611436;34,53569296;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2019;-54,95474099;36,89804806;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2020;-82,28220493;35,2313748;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2021;-53,65705534;35,26554202;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2022;-55,67014249;39,79498871;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2023;-58,00368452;38,10427093;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2024;-25,08316435;37,47645362;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2025;-80,8152046;38,19030642;Annual;01/01/80
+ZWE;Zimbabwe;CAN;Canada;USD million;2026;-71,42040238;32,53314781;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1980;-37,38034155;39,31202933;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1981;-64,46708801;39,39672212;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1982;-62,04857896;41,59267424;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1983;-37,67471571;42,13955432;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1984;-74,01232061;43,06029855;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1985;-55,06931825;43,60217215;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1986;-33,302597;46,2859304;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1987;-42,01143504;45,51942575;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1988;-75,35860088;44,02384693;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1989;-45,69224783;47,33759627;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1990;-36,06751242;49,94873893;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1991;-57,39280423;55,5609869;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1992;-42,29609359;50,39363424;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1993;-49,62358794;44,59211788;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1994;-50,22662427;44,15358029;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1995;-59,9134286;48,32882799;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1996;-41,84154889;51,95637177;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1997;-58,24338499;47,31090732;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1998;-53,25544985;47,24678843;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;1999;-34,69115434;45,78348321;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2000;-64,1475017;52,77919202;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2001;-52,6288047;50,1915791;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2002;-23,35805572;58,02315404;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2003;-52,49789504;55,06702616;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2004;-49,10618891;57,88069193;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2005;-42,14020194;49,31726779;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2006;-17,97065712;53,60831242;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2007;-37,12440704;52,76932209;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2008;-54,14750205;48,44680652;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2009;-38,66983703;56,49068721;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2010;-75,88384391;53,66810366;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2011;-35,00966227;58,85676421;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2012;-55,9926461;67,44582921;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2013;-61,18062688;63,0672034;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2014;-50,08330245;59,79709837;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2015;-81,13290896;65,21359252;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2016;-56,30757702;62,33187619;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2017;-53,49594249;68,16575399;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2018;-67,26226233;62,90720827;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2019;-40,81573041;72,95196923;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2020;-77,50797952;68,64137219;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2021;-58,13671247;67,96192283;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2022;-76,76769866;70,44209583;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2023;-55,99467971;69,24770358;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2024;-22,93014487;66,65735583;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2025;-67,88708287;74,35421247;Annual;01/01/80
+ZWE;Zimbabwe;CHN;China;USD million;2026;-49,10279412;55,66458775;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1980;-20,06270749;51,94363207;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1981;-54,10852075;50,75076771;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1982;-43,52109053;50,94636165;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1983;-47,59907856;51,14237473;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1984;-46,00200978;49,47913795;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1985;-41,48383763;49,70830953;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1986;-46,88365125;56,83936351;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1987;-37,93328872;58,36224081;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1988;-55,29755174;54,81175834;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1989;-63,4507814;59,10901046;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1990;-77,88988165;57,94642014;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1991;-45,04577546;66,8467952;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1992;-48,07702074;60,67322109;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1993;-58,3164889;54,61942894;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1994;-62,48108799;52,19921239;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1995;-71,62337596;57,52000652;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1996;-74,86541731;64,87540856;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1997;-66,39954955;58,28019653;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1998;-41,22489379;59,83741219;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;1999;-63,8793391;55,89338797;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2000;-47,52941002;64,13525765;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2001;-58,23714066;62,40947729;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2002;-61,18025165;67,38526598;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2003;-60,46052849;63,88214419;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2004;-53,11645904;68,8919217;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2005;-28,50644547;62,26880199;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2006;-76,30433457;65,11334127;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2007;-68,54521475;62,36127431;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2008;-36,59414757;62,71701578;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2009;-75,52703875;64,68334207;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2010;-67,49319668;66,84238229;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2011;-58,41474104;75,78344177;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2012;-57,05549327;87,58449531;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2013;-46,0644017;77,99491149;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2014;-80,77757269;74,99698912;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2015;-59,51058911;81,67848012;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2016;-66,71921682;83,08910976;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2017;-34,95882781;85,36463875;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2018;-80,65128457;77,43277048;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2019;-62,54090858;85,53612318;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2020;-64,19220634;89,78826258;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2021;-71,86927847;77,40590796;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2022;-44,36180636;93,43971064;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2023;-64,20622812;86,60203164;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2024;-66,68347512;83,6645045;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2025;-62,27379869;88,11064604;Annual;01/01/80
+ZWE;Zimbabwe;GBR;United Kingdom;USD million;2026;-59,47973707;67,81530381;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1980;-54,83113199;48,80005383;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1981;-60,35762624;48,04840087;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1982;-58,18253982;44,00885562;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1983;-46,9018258;50,44495418;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1984;-39,22871238;47,41696499;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1985;-72,47333364;50,55771299;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1986;-88,28152377;52,83063771;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1987;-52,78653898;55,82181097;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1988;-37,89500252;51,14117153;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1989;-71,24077958;53,67305555;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1990;-65,26811256;60,49717442;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1991;-54,91284652;62,05770226;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1992;-58,70160056;58,28956263;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1993;-52,15809196;50,72845371;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1994;-55,86956372;50,72322054;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1995;-45,05790032;56,64291413;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1996;-63,18335694;57,59299178;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1997;-39,52118897;53,17442135;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1998;-54,1519769;60,5383085;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;1999;-86,17290743;50,8891849;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2000;-58,19315031;56,88919652;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2001;-37,31772546;55,84644695;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2002;-66,1699686;61,97052286;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2003;-54,84038692;62,42527598;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2004;-46,00518404;63,95790825;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2005;-74,57714552;56,24393342;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2006;-52,09052338;60,77156863;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2007;-45,26086701;64,14083444;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2008;-52,95714416;60,9563237;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2009;-96,98123823;65,54433516;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2010;-46,97742778;62,46617687;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2011;-56,27041554;70,80774921;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2012;-68,98911304;79,07537481;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2013;-50,25518417;71,53670894;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2014;-51,94380606;68,77627204;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2015;-62,77721843;74,67690219;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2016;-75,11419521;75,79686649;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2017;-51,29237889;80,7456381;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2018;-77,80788654;69,4103814;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2019;-61,5885444;84,65284193;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2020;-99,86281632;80,26190004;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2021;-80,63834331;77,0754836;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2022;-54,84705456;86,99599393;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2023;-57,1523447;83,94459103;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2024;-46,50243318;83,62025221;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2025;-48,90826165;80,19447318;Annual;01/01/80
+ZWE;Zimbabwe;MOZ;Mozambique;USD million;2026;-79,28034656;66,8038187;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1980;-81,0899815;18,86385161;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1981;-44,18666597;19,38758596;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1982;-57,08936369;17,29721426;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1983;-44,26413821;20,17889529;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1984;-37,05359167;18,35969104;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1985;-64,39641795;19,81375114;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1986;-52,48663142;19,18456427;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1987;-81,30795336;20,45515809;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1988;-30,90523211;19,61914219;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1989;-64,90591325;21,12059463;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1990;-58,56619363;22,35284299;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1991;-73,08845271;22,70912297;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1992;-51,48377249;21,65130641;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1993;-60,66301288;19,9922056;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1994;-56,46908965;20,84195738;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1995;-37,20268865;21,60246182;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1996;-52,03507748;24,7872228;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1997;-49,62107427;22,73749192;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1998;-45,02004466;22,34960594;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;1999;-38,83046089;21,10154043;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2000;-43,68796168;22,785183;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2001;-47,23701733;21,10123034;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2002;-52,5105181;23,99833403;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2003;-35,71696872;23,82400598;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2004;-39,79663832;25,0417627;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2005;-73,43068259;23,02956817;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2006;-57,86914101;24,20452703;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2007;-28,34635583;25,97899232;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2008;-73,69607882;23,34594147;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2009;-69,61741994;24,73993756;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2010;-56,77612725;25,02119817;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2011;-60,2852702;26,9401604;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2012;-65,76760698;30,74680643;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2013;-57,23324497;28,19997685;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2014;-47,76287725;26,87280493;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2015;-44,28392973;29,40300481;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2016;-64,39761567;29,78168727;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2017;-52,689863;30,53989536;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2018;-36,83574715;29,57461415;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2019;-68,9273607;30,15220778;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2020;-39,42617131;30,66870586;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2021;-41,62527846;28,78008531;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2022;-61,78867835;32,33149252;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2023;-69,12322511;32,25282245;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2024;-50,96094518;30,04655657;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2025;-51,87003748;33,67631106;Annual;01/01/80
+ZWE;Zimbabwe;MWI;Malawi;USD million;2026;-17,27083089;26,3154266;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1980;-61,53092551;17,62771489;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1981;-55,80144367;18,85395976;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1982;-31,17222412;18,92556765;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1983;-46,56837238;19,77918837;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1984;-57,80658615;18,17880396;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1985;-61,89008489;20,72921168;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1986;-67,04805502;20,81566236;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1987;-69,4497808;21,87843886;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1988;-17,4023861;19,89792521;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1989;-79,71762204;20,29780341;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1990;-47,59288726;21,26344746;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1991;-45,56929543;23,00240383;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1992;-56,71620553;22,48157073;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1993;-83,35950976;20,63845626;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1994;-45,22848361;19,98231207;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1995;-42,16725895;23,37536221;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1996;-57,89549102;24,58314063;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1997;-54,13052603;22,42380567;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1998;-65,97296455;24,54274042;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;1999;-62,61706306;21,45391698;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2000;-61,55569273;22,32849786;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2001;-61,08799861;22,80928797;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2002;-66,61410042;24,85130475;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2003;-51,62087975;25,92556426;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2004;-16,15285749;26,59508459;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2005;-56,09245451;23,48389742;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2006;-51,04891629;25,33043591;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2007;-43,21396338;23,51434639;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2008;-46,34669579;23,09967691;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2009;-42,48569485;24,79095067;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2010;-48,23833236;22,90785023;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2011;-33,63482918;27,68838285;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2012;-50,79384277;32,52109204;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2013;-61,90399549;30,33571473;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2014;-74,46386734;26,5839102;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2015;-37,57815364;31,52912829;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2016;-60,24493392;31,04490541;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2017;-52,49825808;32,35956631;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2018;-40,48887514;30,71076904;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2019;-60,85974966;33,05433023;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2020;-49,03696209;31,75820616;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2021;-54,05998504;32,1488851;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2022;-49,66308943;31,52943181;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2023;-45,9538798;33,47390873;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2024;-35,54097714;31,83769215;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2025;-78,633338;33,98695832;Annual;01/01/80
+ZWE;Zimbabwe;NAM;Namibia;USD million;2026;-10,01746495;26,48079019;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1980;-64,78019583;40,84117112;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1981;-43,98160763;44,25369268;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1982;-70,52351395;42,15258907;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1983;-48,61812791;42,77860673;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1984;-85,27986656;39,76806458;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1985;-65,34063282;45,48314954;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1986;-32,24133248;46,31549631;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1987;-66,15134512;47,42387952;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1988;-27,49199579;45,45768856;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1989;-79,06915417;48,34980456;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1990;-47,15955082;49,75736112;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1991;-65,41090917;53,62298788;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1992;-64,88881375;51,50016311;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1993;-61,96421227;45,97047803;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1994;-76,499675;45,82461836;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1995;-49,63205013;49,81083427;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1996;-61,80685172;60,19456207;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1997;-37,40148011;52,8589932;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1998;-45,23227314;47,63942873;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;1999;-53,4738759;48,1324576;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2000;-59,77074124;50,85132674;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2001;-44,39618028;49,15457685;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2002;-60,5580999;53,87143322;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2003;-76,54717839;52,51178085;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2004;-48,66900201;57,9958543;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2005;-57,20322899;53,70801842;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2006;-46,88476571;54,95141312;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2007;-85,67622508;55,54336311;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2008;-49,90783041;52,65640112;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2009;-56,36396836;57,29719854;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2010;-61,56704904;50,81889732;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2011;-44,5383437;61,84999687;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2012;-46,5351482;71,41433596;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2013;-71,55897318;61,17562414;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2014;-54,15006706;65,21110371;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2015;-48,18188115;61,76482724;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2016;-73,92174924;70,59446918;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2017;-30,5597548;67,69611405;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2018;-42,66087202;65,46169914;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2019;-57,83265813;75,36870781;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2020;-46,5018446;69,19817717;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2021;-32,85181449;67,86797806;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2022;-19,09093074;74,74735837;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2023;-60,32843093;76,02961042;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2024;-92,37456028;71,37336771;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2025;-41,24447316;74,24986073;Annual;01/01/80
+ZWE;Zimbabwe;USA;United States;USD million;2026;-58,08411933;56,40961236;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1980;-52,91715156;45,66034334;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1981;-70,0980572;46,57659617;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1982;-52,45422569;45,52248578;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1983;-58,89503069;49,32860623;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1984;-56,92899488;51,3922283;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1985;-40,79578664;54,03229811;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1986;-91,11668847;52,97501616;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1987;-40,38210236;52,09749711;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1988;-60,14969125;50,82215374;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1989;-44,4561961;51,57546228;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1990;-35,7707357;58,6102473;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1991;-75,92700374;63,41184838;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1992;-55,49300424;49,17755441;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1993;-61,1826916;55,13667609;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1994;-59,94951569;49,2146969;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1995;-82,61261488;57,44520752;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1996;-54,24299952;62,6179099;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1997;-58,32762302;54,37961108;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1998;-68,93052384;59,13808704;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;1999;-76,03930045;54,24558068;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2000;-63,91300602;57,58543948;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2001;-55,25925949;56,06224635;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2002;-43,48908952;60,78990825;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2003;-54,80596893;67,20253271;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2004;-59,46007018;68,46309108;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2005;-83,32235173;60,46280538;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2006;-74,80242859;61,87679992;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2007;-38,19913586;62,33770989;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2008;-50,99331775;62,16695167;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2009;-71,37019032;67,27011539;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2010;-57,74895468;59,49343112;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2011;-43,8507945;68,09211391;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2012;-52,24341707;82,40352562;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2013;-84,56390773;74,67830084;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2014;-63,41109843;70,99216231;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2015;-53,09676167;71,51132644;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2016;-31,66908793;81,30874589;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2017;-75,0187812;81,74754155;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2018;-63,26121263;71,52311352;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2019;-48,93934815;83,72088863;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2020;-20,42609982;81,93515443;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2021;-79,37454941;73,1915666;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2022;-71,11718511;82,0050863;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2023;-74,53712377;79,67399844;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2024;-27,45435383;74,49833733;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2025;-62,79739066;86,38968233;Annual;01/01/80
+ZWE;Zimbabwe;ZAF;South Africa;USD million;2026;-85,91175438;64,3266271;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1980;-64,04299114;43,27929915;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1981;-63,29020586;45,57935894;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1982;-44,65493062;43,67341341;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1983;-78,14731735;47,50826141;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1984;-64,98768938;43,09307957;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1985;-45,18519609;48,65951387;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1986;-51,98591381;47,32437652;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1987;-61,16057883;48,79083709;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1988;-55,12376326;45,95323007;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1989;-78,30198873;52,47570122;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1990;-56,21469966;53,73963256;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1991;-48,67519533;57,52446447;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1992;-81,19269374;52,78006967;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1993;-84,13700389;49,55960624;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1994;-48,77280307;48,57180764;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1995;-75,64041654;50,61381663;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1996;-58,74932139;60,76142157;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1997;-56,01979138;53,5461964;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1998;-52,40350287;53,6621841;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;1999;-79,15425676;50,13421472;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2000;-70,15208438;53,2409258;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2001;-82,673908;52,50434465;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2002;-68,3384913;54,94524373;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2003;-42,20954202;60,05358418;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2004;-51,75840809;59,30428973;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2005;-58,93006693;54,95760271;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2006;-42,44959298;63,53591408;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2007;-72,53045671;56,59159091;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2008;-58,00941882;55,30889421;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2009;-58,21665511;60,22967164;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2010;-50,1106941;57,55291596;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2011;-48,85666847;66,66829533;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2012;-43,42474434;78,35436147;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2013;-64,09633946;66,82003134;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2014;-75,73362519;64,51679907;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2015;-60,0208776;72,91103995;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2016;-40,54161817;73,6548861;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2017;-40,56291306;75,71051142;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2018;-82,88708002;71,75908623;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2019;-78,21046767;74,87777615;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2020;-83,00019353;77,18917729;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2021;-66,69346216;68,61104195;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2022;-93,38963551;80,83548991;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2023;-63,05715045;79,8251948;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2024;-39,26604655;75,30567386;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2025;-59,55213347;78,82042861;Annual;01/01/80
+ZWE;Zimbabwe;ZMB;Zambia;USD million;2026;-77,04400629;62,61863572;Annual;01/01/80

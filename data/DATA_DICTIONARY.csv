@@ -1,0 +1,15 @@
+Dataset;Description;Coverage
+BOP_Monthly;BPM6-oriented current/capital account flows;1980-01-01 to 2026-09-01
+Goods_Product_Monthly;Product-level domestic supply/demand and estimated trade;1980-01-01 to 2026-09-01
+Services_Monthly;Services trade by service category;1980-01-01 to 2026-09-01
+Global_Commodity_Monthly;Global commodity demand, supply and prices;1980-01-01 to 2026-09-01
+Migration_Monthly;International migration and labour migration by industry;1980-01-01 to 2026-09-01
+Remittances_Monthly;Remittances by source country;1980-01-01 to 2026-09-01
+External_Debt_Monthly;External debt stocks, borrowing and interest payments;1980-01-01 to 2026-09-01
+FDI_Monthly;FDI by sector;1980-01-01 to 2026-09-01
+Portfolio_Monthly;Portfolio investment detail;1980-01-01 to 2026-09-01
+Other_Investment_Monthly;Other investment, trade credit, deposits and loans;1980-01-01 to 2026-09-01
+Reserves_Monthly;Reserve assets and reserve adequacy;1980-01-01 to 2026-09-01
+IIP_Monthly;International Investment Position;1980-01-01 to 2026-09-01
+External_Indicators_Monthly;External macro, FX, commodity and climate indicators;1980-01-01 to 2026-09-01
+Statistical_Discrepancy_Monthly;Errors and omissions / statistical discrepancy;1980-01-01 to 2026-09-01
